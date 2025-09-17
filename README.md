@@ -2,8 +2,8 @@
 
 This is a simple calculator web app built using **React**. It supports basic arithmetic operations and has a responsive UI.
 
-### 🚀 Live Demo
-👉 [Click here to try the calculator](https://ZUBENATHI-SAMKILE.github.io/calculator-react/)
+## Live Demo
+[Click here to try the calculator](https://ZUBENATHI-SAMKILE.github.io/calculator-react/)
 
 ---
 
