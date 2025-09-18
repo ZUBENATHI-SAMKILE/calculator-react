@@ -5,34 +5,22 @@ This is a simple calculator web app built using **React**. It supports basic ari
 ## Live Demo
 [Click here to try the calculator](https://ZUBENATHI-SAMKILE.github.io/calculator-react/)
 
----
+## Features
+-Addition, Subtraction, Multiplication, Division
+-Clear and Delete functionality
+-Simple and responsive design
+-Built with modern React (`v19.1.0`)
 
-## 💻 Features
+##How to Run Locally
+-Make sure you have [Node.js](https://nodejs.org/) installed.
 
-- Addition, Subtraction, Multiplication, Division
-- Clear and Delete functionality
-- Simple and responsive design
-- Built with modern React (`v19.1.0`)
+##Tech Stack
+-React
+-HTML & CSS
+-JavaScript (ES6+)
+-GitHub Pages (for deployment)
 
----
-
-## ⚙️ How to Run Locally
-
-Make sure you have [Node.js](https://nodejs.org/) installed.
-
-```bash
-git clone https://github.com/ZUBENATHI-SAMKILE/calculator-react.git
-cd calculator-react
-npm install
-npm start
-
-🛠 Tech Stack
-React
-HTML & CSS
-JavaScript (ES6+)
-GitHub Pages (for deployment)
-
-📦 Scripts
+##Scripts
 npm start — Runs the app in development mode.
 npm run build — Builds the app for production.
 npm test — Launches the test runner.
